@@ -1,0 +1,43 @@
+@import "variables";
+
+body{
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  background-color: var(--light-gray);
+  font-family: 'Outfit', sans-serif;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.card {
+  //margin-top: 144px;
+  width: 320px;
+  background: var(--white);
+  padding: 1rem;
+  border-radius: 18px;
+  box-sizing: border-box;
+  box-shadow: 0px 19px 21px 5px var(--shadow-color);
+
+  &__head {
+    font-size: 1.392rem;
+    font-weight: 700;
+    color: var(--dark-blue);
+    text-align: center;
+    margin-top: 1.23rem;
+    margin-bottom: 0;
+  }
+  &__p {
+    font-size: .97rem;
+    font-weight: 400;
+    color: var(--grayish-blue);
+    text-align: center;
+    margin-top: 0.9rem;
+    margin-bottom: 1.5rem;
+  }
+  &__code{
+    width: 100%;
+    border-radius: 11px;
+  }
+}
