@@ -7,7 +7,6 @@
   "scripts": {
     "deploy": "gh-pages -d challenges"
   },
-  "post-commit": [ "deploy" ],
   "dependencies": {},
   "devDependencies": {
     "lerna": "^7.1.5"

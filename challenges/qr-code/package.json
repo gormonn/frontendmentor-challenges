@@ -2,12 +2,13 @@
   "name": "qr-code",
   "version": "0.0.0",
   "description": "> TODO: description",
-  "author": "Dmitriy Aleksandrovich Chernukho <gormonn@redcollar.ru>",
+  "author": "Dmitriy Aleksandrovich Chernukho <wfuzerbar@gmail.com>",
   "homepage": "https://github.com/gormonn/frontendmentor-challenges#readme",
   "license": "ISC",
   "main": "index.html",
   "directories": {
-    "src": "src"
+    "src": "src",
+    "public": "public"
   },
   "files": [
     "lib"
