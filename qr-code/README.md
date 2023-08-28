@@ -19,9 +19,6 @@ Link to the challenge: [QR code component challenge on Frontend Mentor](https://
 
 ### Built with
 
-- Semantic HTML5 markup
+- CSS Flexbox
 - CSS variables
-- Flexbox
-- Mobile-first workflow
 - [SASS](https://sass-lang.com/) - For styles
-- qrcode lib for generate qr-code by link from .env
