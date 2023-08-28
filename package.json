@@ -4,6 +4,9 @@
   "workspaces": [
     "challenges/*"
   ],
+  "scripts": {
+    "deploy": "gh-pages -d challenges"
+  },
   "dependencies": {},
   "devDependencies": {
     "lerna": "^7.1.5"

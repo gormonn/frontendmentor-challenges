@@ -18,8 +18,7 @@
   },
   "scripts": {
     "serve": "serve ./public",
-    "css": "sass --watch --style=compressed src/style.scss public/style.css",
-    "publish": ""
+    "css": "sass --watch --style=compressed src/style.scss public/style.css"
   },
   "bugs": {
     "url": "https://github.com/gormonn/frontendmentor-challenges/issues"
@@ -27,5 +26,7 @@
   "dependencies": {
     "gh-pages": "^6.0.0",
     "sass": "^1.66.1"
+  },
+  "devDependencies": {
   }
 }

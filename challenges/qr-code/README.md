@@ -14,8 +14,8 @@ Link to the challenge: [QR code component challenge on Frontend Mentor](https://
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Demo](https://gormonn.github.io/frontendmentor-challenges/qr-code/public)
+- [Source](https://your-live-site-url.com)
 
 ### Built with
 
@@ -24,3 +24,4 @@ Link to the challenge: [QR code component challenge on Frontend Mentor](https://
 - Flexbox
 - Mobile-first workflow
 - [SASS](https://sass-lang.com/) - For styles
+- qrcode lib for generate qr-code by link from .env
