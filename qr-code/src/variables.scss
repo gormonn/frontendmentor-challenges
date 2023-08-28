@@ -1,0 +1,12 @@
+$white: hsl(0, 0%, 100%);
+$lightBlue: hsl(212, 45%, 89%);
+$grayishBlue: hsl(220, 15%, 55%);
+$darkBlue: hsl(218, 44%, 22%);
+
+:root{
+    --white: #{$white};
+    --light-gray: #{$lightBlue};
+    --grayish-blue: #{$grayishBlue};
+    --dark-blue: #{$darkBlue};
+    --shadow-color: #{rgba($darkBlue, .07)};
+}

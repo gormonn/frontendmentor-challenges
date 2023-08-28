@@ -1,0 +1,30 @@
+{
+  "name": "qr-code",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "Dmitriy Aleksandrovich Chernukho <gormonn@redcollar.ru>",
+  "homepage": "https://github.com/gormonn/frontendmentor-challenges#readme",
+  "license": "ISC",
+  "main": "index.html",
+  "directories": {
+    "src": "src"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gormonn/frontendmentor-challenges.git"
+  },
+  "scripts": {
+    "serve": "serve ./public",
+    "css": "sass --watch --style=compressed src/style.scss public/style.css"
+  },
+  "bugs": {
+    "url": "https://github.com/gormonn/frontendmentor-challenges/issues"
+  },
+  "dependencies": {
+    "gh-pages": "^6.0.0",
+    "sass": "^1.66.1"
+  }
+}
